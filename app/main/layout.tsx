@@ -8,7 +8,7 @@ export default function Layout({
 }: {
     children: React.ReactNode
 }) {
-    const api = "http://localhost:8081/WHAPI/api";
+
     return (
         <>
             <AppWrapper >
